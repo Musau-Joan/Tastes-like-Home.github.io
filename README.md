@@ -15,7 +15,7 @@ Tastes-like Home website belongs to the Tastes-like-Home foodchain. It was devel
 The site is compatible with any device that can access the internet regardless of size or the operating system they are working on. Users can access the website and get the services from the website link.
 
 # Live page
-
+https://tasteslikehome.netlify.app/
 
 # Bugs/feature request
 The site currently has no known bugs and runs smoothly.However, if you happen to find a bug,feel free to contact through the email address provided.
